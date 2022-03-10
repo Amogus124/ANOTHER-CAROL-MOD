@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Joyous", "dad", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "carolsHouse",
+
+	"storyName": "Tuesday Birthday Night",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
